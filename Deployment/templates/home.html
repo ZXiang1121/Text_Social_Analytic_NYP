@@ -1,0 +1,13 @@
+{% extends "base.html" %} {% block title%}Predict{% endblock %} {% block
+content%}
+<div class="container">
+  <h1>Machine Learning Suitable Job Identifier</h1>
+
+  <form action="{{ url_for('predict')}}" method="POST">
+    <h4>Enter Job Application Text</h4>
+    <textarea name="message" cols="50" rows="5"></textarea>
+    <input type="submit" class="btn btn-primary" value="predict" />
+  </form>
+</div>
+
+{% endblock %}

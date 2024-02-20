@@ -1,0 +1,22 @@
+# Business Analyst
+
+ 
+I would play a critical role in helping organizations improve their operations and make better business decisions. To succeed in this role, I would need strong analytical and problem-solving skills, as well as the ability to communicate complex ideas to both technical and non-technical stakeholders. I would consider pursuing certifications such as the Certified Business Analysis Professional (CBAP) to enhance my skills and make myself more marketable to potential employers.
+
+# Data Analyst
+
+I would be responsible for analyzing and interpreting large sets of data to help organizations make better decisions. I would need strong skills in data analysis, statistics, and programming, as well as a deep understanding of data visualization tools and techniques. I would also need to have strong communication skills to be able to present complex data in a way that is easy to understand. Pursuing certifications such as the Certified Data Management Professional (CDMP) would help me stay current with the latest trends and technologies in the field.
+
+Data Scientist
+        "I would be responsible for using data to help organizations solve complex problems and make strategic decisions. To succeed in this role, I would need strong skills in data analysis, machine learning, and programming, as well as a deep understanding of data visualization tools and techniques. I would also need to have strong communication skills to be able to present my findings and recommendations to both technical and non-technical stakeholders. Pursuing certifications such as the Certified Analytics Professional (CAP) would help me stay at the forefront of this rapidly evolving field.
+
+Software Engineer
+
+I would be responsible for designing, developing, and maintaining software applications that meet the needs of businesses and organizations. To succeed in this role, I would need strong skills in programming, software design, and problem-solving. I would also need to have a deep understanding of software development methodologies and tools, as well as strong communication skills to work effectively with other members of the development team. Pursuing certifications such as the Certified Software Development Professional (CSDP) would help me stay up to date with the latest technologies and best practices in software engineering.
+
+
+        'math',
+        'JavaScript',
+        'Tableau or Power BI',
+        'experience in multiple data anlytic tools such as KNIME, parsehub, web-scraping',
+    ]
