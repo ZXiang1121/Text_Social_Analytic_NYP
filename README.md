@@ -62,3 +62,8 @@ The machine learning (ML) task of predicting suitable roles from job description
 
 - The project will follow the CRISP-DM methodology over 8 weeks.
 - Weekly tasks include defining the business problem, data understanding, preparation, modeling, evaluation, and final demonstration with a mock job interview.
+
+
+## Sample Demo on Deployment
+
+![Screenshot 2024-02-18 163406](https://github.com/ZXiang1121/Text_Social_Analytic_NYP/assets/98081173/2562d46e-51c1-4231-aac5-15a6bc092f7a)
